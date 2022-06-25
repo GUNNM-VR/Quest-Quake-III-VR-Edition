@@ -1,0 +1,7 @@
+#Wed Jun 22 20:25:44 CEST 2022
+base.0=C\:\\travail\\Quake3eVR\\Quake3eVR_Quest_VRAPI\\app\\build\\intermediates\\dex\\debug\\mergeExtDexDebug\\out\\classes.dex
+path.1=classes.dex
+renamed.1=classes2.dex
+path.0=classes.dex
+renamed.0=classes.dex
+base.1=C\:\\travail\\Quake3eVR\\Quake3eVR_Quest_VRAPI\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\out\\classes.dex

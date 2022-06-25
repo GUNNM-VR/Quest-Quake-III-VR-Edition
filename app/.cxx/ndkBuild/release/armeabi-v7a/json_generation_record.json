@@ -1,0 +1,58 @@
+[
+  {
+    "level": "INFO",
+    "message": "Version minSdkVersion\u003d\u002725\u0027 is mapped to \u002724\u0027."
+  },
+  {
+    "level": "INFO",
+    "message": "Start JSON generation. Platform version: 24 min SDK version: armeabi-v7a"
+  },
+  {
+    "level": "INFO",
+    "message": "rebuilding JSON C:\\travail\\Quest\\Quake3e_VRAPI\\app\\.cxx\\ndkBuild\\release\\armeabi-v7a\\android_gradle_build.json due to:"
+  },
+  {
+    "level": "INFO",
+    "message": "- command changed from previous, will remove stale json folder"
+  },
+  {
+    "level": "INFO",
+    "message": "removing stale contents from \u0027C:\\travail\\Quest\\Quake3e_VRAPI\\app\\.cxx\\ndkBuild\\release\\armeabi-v7a\u0027"
+  },
+  {
+    "level": "INFO",
+    "message": "created folder \u0027C:\\travail\\Quest\\Quake3e_VRAPI\\app\\.cxx\\ndkBuild\\release\\armeabi-v7a\u0027"
+  },
+  {
+    "level": "INFO",
+    "message": "executing ndkBuild Executable : D:\\android\\android-sdk\\ndk-bundle\\ndk-build.cmd\narguments : \nNDK_PROJECT_PATH\u003dnull\nAPP_BUILD_SCRIPT\u003dC:\\travail\\Quest\\Quake3e_VRAPI\\app\\src\\main\\jni\\Android.mk\nNDK_APPLICATION_MK\u003dC:\\travail\\Quest\\Quake3e_VRAPI\\app\\src\\main\\jni\\Application.mk\nAPP_ABI\u003darmeabi-v7a\nNDK_ALL_ABIS\u003darmeabi-v7a\nNDK_DEBUG\u003d0\nAPP_PLATFORM\u003dandroid-24\nNDK_OUT\u003dC:/travail/Quest/Quake3e_VRAPI/app/build/intermediates/ndkBuild/release/obj\nNDK_LIBS_OUT\u003dC:\\travail\\Quest\\Quake3e_VRAPI\\app\\build\\intermediates\\ndkBuild\\release\\lib\nAPP_SHORT_COMMANDS\u003dfalse\nLOCAL_SHORT_COMMANDS\u003dfalse\n-B\n-n\njvmArgs : \n\n"
+  },
+  {
+    "level": "INFO",
+    "message": "Executable : D:\\android\\android-sdk\\ndk-bundle\\ndk-build.cmd\narguments : \nNDK_PROJECT_PATH\u003dnull\nAPP_BUILD_SCRIPT\u003dC:\\travail\\Quest\\Quake3e_VRAPI\\app\\src\\main\\jni\\Android.mk\nNDK_APPLICATION_MK\u003dC:\\travail\\Quest\\Quake3e_VRAPI\\app\\src\\main\\jni\\Application.mk\nAPP_ABI\u003darmeabi-v7a\nNDK_ALL_ABIS\u003darmeabi-v7a\nNDK_DEBUG\u003d0\nAPP_PLATFORM\u003dandroid-24\nNDK_OUT\u003dC:/travail/Quest/Quake3e_VRAPI/app/build/intermediates/ndkBuild/release/obj\nNDK_LIBS_OUT\u003dC:\\travail\\Quest\\Quake3e_VRAPI\\app\\build\\intermediates\\ndkBuild\\release\\lib\nAPP_SHORT_COMMANDS\u003dfalse\nLOCAL_SHORT_COMMANDS\u003dfalse\n-B\n-n\njvmArgs : \n\n"
+  },
+  {
+    "level": "INFO",
+    "message": "done executing ndkBuild"
+  },
+  {
+    "level": "INFO",
+    "message": "write build output C:\\travail\\Quest\\Quake3e_VRAPI\\app\\.cxx\\ndkBuild\\release\\armeabi-v7a\\build_output.txt"
+  },
+  {
+    "level": "INFO",
+    "message": "parse and convert ndk-build output to build configuration JSON"
+  },
+  {
+    "level": "INFO",
+    "message": "found application make file C:\\travail\\Quest\\Quake3e_VRAPI\\app\\src\\main\\jni\\Application.mk"
+  },
+  {
+    "level": "INFO",
+    "message": "write command file C:\\travail\\Quest\\Quake3e_VRAPI\\app\\.cxx\\ndkBuild\\release\\armeabi-v7a\\build_command.txt"
+  },
+  {
+    "level": "INFO",
+    "message": "JSON generation completed without problems"
+  }
+]

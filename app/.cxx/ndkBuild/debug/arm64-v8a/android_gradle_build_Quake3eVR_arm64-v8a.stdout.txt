@@ -1,0 +1,2 @@
+[arm64-v8a] Compile        : Quake3eVR <= VRMOD_input.c
+[arm64-v8a] SharedLibrary  : libQuake3eVR.so

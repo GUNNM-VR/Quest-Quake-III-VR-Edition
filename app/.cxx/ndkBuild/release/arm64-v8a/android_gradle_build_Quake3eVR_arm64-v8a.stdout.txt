@@ -1,0 +1,3 @@
+[arm64-v8a] Compile        : rendv <= tr_init.c
+[arm64-v8a] StaticLibrary  : librendv.a
+[arm64-v8a] SharedLibrary  : libQuake3eVR.so

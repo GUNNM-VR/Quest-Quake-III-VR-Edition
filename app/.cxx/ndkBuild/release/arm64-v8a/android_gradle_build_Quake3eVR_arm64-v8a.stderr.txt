@@ -1,0 +1,8 @@
+In file included from C:/travail/Quake3eVR/Quake3eVR_Quest_VRAPI/app/src/main/jni/../../../../../Quake3e-master\code/renderervk/tr_init.c:24:
+C:/travail/Quake3eVR/Quake3eVR_Quest_VRAPI/app/src/main/jni/../../../../../Quake3e-master\code/renderervk/tr_local.h:33:9: warning: 'USE_PMLIGHT' macro redefined [-Wmacro-redefined]
+#define USE_PMLIGHT             // promode dynamic lights via \r_dlightMode 1|2
+        ^
+<command line>:9:9: note: previous definition is here
+#define USE_PMLIGHT 1
+        ^
+1 warning generated.

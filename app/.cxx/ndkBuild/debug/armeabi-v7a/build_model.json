@@ -1,0 +1,58 @@
+{
+  "variant": {
+    "module": {
+      "rootBuildGradleFolder": "C:\\travail\\Quest\\Quake3e_VRAPI",
+      "sdkFolder": "D:\\android\\android-sdk",
+      "isNativeCompilerSettingsCacheEnabled": false,
+      "isBuildOnlyTargetAbiEnabled": true,
+      "splitsAbiFilterSet": [],
+      "intermediatesFolder": "C:\\travail\\Quest\\Quake3e_VRAPI\\app\\build\\intermediates",
+      "gradleModulePathName": ":app",
+      "moduleRootFolder": "C:\\travail\\Quest\\Quake3e_VRAPI\\app",
+      "makeFile": "C:\\travail\\Quest\\Quake3e_VRAPI\\app\\src\\main\\jni\\Android.mk",
+      "buildSystem": "NDK_BUILD",
+      "compilerSettingsCacheFolder": "C:\\travail\\Quest\\Quake3e_VRAPI\\.cxx",
+      "cxxFolder": "C:\\travail\\Quest\\Quake3e_VRAPI\\app\\.cxx",
+      "ndkFolder": "D:\\android\\android-sdk\\ndk-bundle",
+      "ndkVersion": "21.1.6352462",
+      "ndkSupportedAbiList": [
+        "ARMEABI_V7A",
+        "ARM64_V8A",
+        "X86",
+        "X86_64"
+      ],
+      "ndkDefaultAbiList": [
+        "ARMEABI_V7A",
+        "ARM64_V8A",
+        "X86",
+        "X86_64"
+      ],
+      "cmakeToolchainFile": "."
+    },
+    "buildSystemArgumentList": [],
+    "cFlagList": [],
+    "cppFlagsList": [],
+    "variantName": "debug",
+    "soFolder": "C:\\travail\\Quest\\Quake3e_VRAPI\\app\\build\\intermediates\\ndkBuild\\debug\\lib",
+    "objFolder": "C:\\travail\\Quest\\Quake3e_VRAPI\\app\\build\\intermediates\\ndkBuild\\debug\\obj\\local",
+    "jsonFolder": "C:\\travail\\Quest\\Quake3e_VRAPI\\app\\.cxx\\ndkBuild\\debug",
+    "gradleBuildOutputFolder": "C:\\travail\\Quest\\Quake3e_VRAPI\\app\\.cxx\\cxx\\debug",
+    "isDebuggableEnabled": true,
+    "validAbiList": [
+      "ARMEABI_V7A",
+      "ARM64_V8A"
+    ],
+    "buildTargetSet": []
+  },
+  "abi": "ARMEABI_V7A",
+  "abiPlatformVersion": 24,
+  "cxxBuildFolder": "C:\\travail\\Quest\\Quake3e_VRAPI\\app\\.cxx\\ndkBuild\\debug\\armeabi-v7a",
+  "jsonFile": "C:\\travail\\Quest\\Quake3e_VRAPI\\app\\.cxx\\ndkBuild\\debug\\armeabi-v7a\\android_gradle_build.json",
+  "gradleBuildOutputFolder": "C:\\travail\\Quest\\Quake3e_VRAPI\\app\\.cxx\\cxx\\debug\\armeabi-v7a",
+  "objFolder": "C:\\travail\\Quest\\Quake3e_VRAPI\\app\\build\\intermediates\\ndkBuild\\debug\\obj\\local\\armeabi-v7a",
+  "buildCommandFile": "C:\\travail\\Quest\\Quake3e_VRAPI\\app\\.cxx\\ndkBuild\\debug\\armeabi-v7a\\build_command.txt",
+  "buildOutputFile": "C:\\travail\\Quest\\Quake3e_VRAPI\\app\\.cxx\\ndkBuild\\debug\\armeabi-v7a\\build_output.txt",
+  "modelOutputFile": "C:\\travail\\Quest\\Quake3e_VRAPI\\app\\.cxx\\ndkBuild\\debug\\armeabi-v7a\\build_model.json",
+  "jsonGenerationLoggingRecordFile": "C:\\travail\\Quest\\Quake3e_VRAPI\\app\\.cxx\\ndkBuild\\debug\\armeabi-v7a\\json_generation_record.json",
+  "compileCommandsJsonFile": "C:\\travail\\Quest\\Quake3e_VRAPI\\app\\.cxx\\ndkBuild\\debug\\armeabi-v7a\\compile_commands.json"
+}
